@@ -218,3 +218,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Research data stays outside version control
+/data/
+/datasets/
+/splits/
+*.jpg
+*.jpeg
+*.png
+*.JPG
+*.JPEG
+*.PNG
