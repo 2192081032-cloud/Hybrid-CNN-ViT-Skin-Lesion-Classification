@@ -52,6 +52,9 @@ The application allows users to upload skin lesion images and view model predict
 ![Melanoma Prediction](melanoma_prediction_correct.png)
 
 ## Running the Application
+### Download Trained Model
+
+[Download Hybrid CNN-ViT Trained Model](https://drive.google.com/file/d/1xlKxt_LpXi1rhRNgv9UURDAhlfsZ4Fyf/view?usp=sharing)
 
 Install dependencies:
 
