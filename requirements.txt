@@ -1,0 +1,7 @@
+torch==2.14.1
+torchvision==0.29.1
+streamlit==1.66.1
+numpy
+pandas
+scikit-learn
+Pillow
